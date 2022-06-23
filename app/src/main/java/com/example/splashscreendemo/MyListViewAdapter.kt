@@ -17,6 +17,8 @@ class MyListViewAdapter(applicationContext: Context,arrname:ArrayList<String>,ar
     val arrimg=arrimg
 
 
+
+
     override fun getCount(): Int {
        return arrdes.size
     }
