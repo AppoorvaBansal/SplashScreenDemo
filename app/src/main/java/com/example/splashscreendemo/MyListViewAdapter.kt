@@ -19,6 +19,8 @@ class MyListViewAdapter(applicationContext: Context,arrname:ArrayList<String>,ar
 
 
 
+
+
     override fun getCount(): Int {
        return arrdes.size
     }
