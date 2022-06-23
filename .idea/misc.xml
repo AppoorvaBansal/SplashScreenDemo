@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AAD/SplashScreenDemo/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/AAD/SplashScreenDemo/app/src/main/res/layout/activity_list.xml" value="0.22" />
         <entry key="..\:/AAD/SplashScreenDemo/app/src/main/res/layout/activity_splash_screen.xml" value="0.12" />
+        <entry key="..\:/AAD/SplashScreenDemo/app/src/main/res/layout/mylist.xml" value="0.18" />
       </map>
     </option>
   </component>

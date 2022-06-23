@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import android.view.WindowManager
 import android.widget.Toast
 
 class SplashScreenActivity : AppCompatActivity() {
@@ -11,6 +12,7 @@ class SplashScreenActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
 
+       // window.setFlags(WindowManager.LayoutParams.Flag_F)
         Toast.makeText(this,"ONCREATE CALLED",Toast.LENGTH_LONG).show()
 
         val handler:Handler=Handler()
