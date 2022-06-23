@@ -31,6 +31,7 @@ class MyListViewAdapter(applicationContext: Context,arrname:ArrayList<String>,ar
 
     override fun getItemId(p0: Int): Long {
         return p0.toLong()
+
     }
 
     override fun getView(p0: Int, p1: View?, p2: ViewGroup?): View {
